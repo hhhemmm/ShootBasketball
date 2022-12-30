@@ -1,0 +1,10 @@
+C:\Users\anewlan\source\repos\ShootBasketball\bin\Release\ShootBasketball.exe.config
+C:\Users\anewlan\source\repos\ShootBasketball\bin\Release\ShootBasketball.exe
+C:\Users\anewlan\source\repos\ShootBasketball\bin\Release\ShootBasketball.pdb
+C:\Users\anewlan\source\repos\ShootBasketball\obj\Release\ShootBasketball.csprojAssemblyReference.cache
+C:\Users\anewlan\source\repos\ShootBasketball\obj\Release\ShootBasketball.FrmSB.resources
+C:\Users\anewlan\source\repos\ShootBasketball\obj\Release\ShootBasketball.Properties.Resources.resources
+C:\Users\anewlan\source\repos\ShootBasketball\obj\Release\ShootBasketball.csproj.GenerateResource.cache
+C:\Users\anewlan\source\repos\ShootBasketball\obj\Release\ShootBasketball.csproj.CoreCompileInputs.cache
+C:\Users\anewlan\source\repos\ShootBasketball\obj\Release\ShootBasketball.exe
+C:\Users\anewlan\source\repos\ShootBasketball\obj\Release\ShootBasketball.pdb
